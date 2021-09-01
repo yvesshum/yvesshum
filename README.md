@@ -22,7 +22,7 @@
 #### 💬 Ask me about
 
 - Games that I play 🎮
-- Scuba Diving and why I love it 🌊
+- Scuba Diving 🌊
 - Why I want to be a Full Stack Software Engineer ⚛️
 - What's Byto? 🍞
 
