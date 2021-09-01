@@ -8,25 +8,24 @@
 
 #### Work Experience 
 
-🌟 Jan 2019 - Current, System Administrator & Full Stack Developer @ [UChicago CSIL](https://csil.cs.uchicago.edu)
+🌟 Jan 2019 - Current, Systems Administrator & Full Stack Developer @[UChicago CSIL](https://csil.cs.uchicago.edu)
 
-🌟 Nov 2019 - Current, Co-Founder & Tech Lead @ [Byto](https://byto.tech)
+🌟 Nov 2019 - Current, Co-Founder & Tech Lead @[Byto](https://byto.tech)
 
-⭐ Jul 2021 - Sep 2021, Software Engineer Intern @ [PayPal](https://paypal.com)
+⭐ Jul 2021 - Sep 2021, Software Engineering Intern @[PayPal](https://paypal.com)
 
-⭐ Mar 2021 - Jun 2021, TA for Introduction to Robotics @ [UChicago](https://classes.cs.uchicago.edu/archive/2021/spring/20600-1/index.html)
+⭐ Mar 2021 - Jun 2021, TA for Introduction to Robotics @[UChicago](https://classes.cs.uchicago.edu/archive/2021/spring/20600-1/index.html)
+
+⭐ Jun 2020 - Sep 2020, Site Reliablity Engineering Intern @[PayPal](https://paypal.com)
 
 
+#### 💬 Ask me about
+
+- Games that I play 🎮
+- Scuba Diving and why I love it 🌊
+- Why I want to be a Full Stack Software Engineer ⚛️
+- What's Byto? 🍞
 
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-Check out my [personal website](https://yvesshum.com)!
+**Check out my [personal website](https://yvesshum.com) ⛷️!**
 
