@@ -8,6 +8,8 @@
 
 #### Work Experience 
 
+🌟 Sep 2019 - Current, Junior Developer @[Diffuse Inc](https://diffusefunds.com/)
+
 🌟 Jan 2019 - Current, Systems Administrator & Full Stack Developer @[UChicago CSIL](https://csil.cs.uchicago.edu)
 
 🌟 Nov 2019 - Current, Co-Founder & Tech Lead @[Byto](https://byto.tech)
